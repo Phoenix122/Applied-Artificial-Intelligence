@@ -1,5 +1,5 @@
 # Applied-Artificial-Intelligence
-Applied AI Projects
+Applied AI Projects:
 Project 1: Scientific Jury Selection - An Expert System using Predicate Logic
 Project 2: Stock Market Prediction - An Expert System using Fuzzy Logic
 Project 3: Scientific Jury Selection -  A Bayesian Probability Model
